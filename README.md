@@ -6,18 +6,21 @@ The purpose of this analysis was to create a summative data frame that would all
 
 ## Results
 * How is the district summary affected?
+
 <![ChallengeDistrictSummary.png]>(Resources/ChallengeDistrictSummary.png)
 <![ModuleDistrictSummary.png]>(Resources/ModuleDistrictSummary.png)
 
 The changes created by excluding freshmen scores at THS were the percentage of students passing math decreased by .1 %, the percentage of students passing reading increased by .1 %, and the percentage passing overall declined by roughly .2 %.
 
 * How is the school summary affected?
+
 <![ChallengePerSchoolSummary.png]>(Resources/ChallengePerSchoolSummary.png)
 <![ModulePerSchoolSummary.png]>(Resources/ModulePerSchoolSummary.png)
 
 There were no evident changes in the per school summary that can be seen in the screenshots of the dataframes' head; however, alterations were made for THS and are noted in the following bullit.
 
 * How does the ninth graders' math and reading scores affect THS' performance relative to other schools. 
+
 <![ChallengeTopSchools.png]>(Resources/ChallengeTopSchools.png)
 <![ModuleTopSchools.png]>(Resources/ModuleTopSchools.png)
 
@@ -26,24 +29,28 @@ Some noteable changes were that the average math score decreased slightly, in ad
 * How does replacing the ninth graders' score affect the following?
 
   * Math and reading scores by grade
+ 
 <![ChallengeGradeScores.png]>(Resources/ChallengeGradeScores.png)
 <![ModuleGradeScores.png]>(Resources/ModuleGradeScores.png)
 
 Similar to the district summary, screenshots do not illustrate the only changes made to the data, those being associated with THS.
 
   * Scores by school spending
+ 
 <![ChallengeSpending.png]>(Resources/ChallengeSpending.png)
 <![ModuleSpending.png]>(Resources/ModuleSpending.png)
 
 As can be seen in the images, the dataframes are identical for spending. This shows that alterations made to THS data had very little impact on the districts' performance overall, as it relates to different levels of funding. 
 
   * Scores by school size
+
 <![ChallengeSize.png]>(Resources/ChallengeSize.png)
 <![ModuleSize.png]>(Resources/ModuleSize.png)
 
 As can be seen in the images, the dataframes are identical for spending. This shows that alterations made to THS data had very little impact on the districts' performance overall, as it relates to different levels of funding.
 
   *Scores by school type
+
 <![ChallengeType.png]>(Resources/ChallengeType.png)
 <![ModuleType.png]>(Resources/ModuleType.png)
 
